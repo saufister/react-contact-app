@@ -1,4 +1,6 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
+// eslint-disable-next-line react/prop-types
 function ContactItemBody({name,tag}){
     return(
         <div className="contact-item__body">
